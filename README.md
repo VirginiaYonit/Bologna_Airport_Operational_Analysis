@@ -47,7 +47,6 @@ For transparency, a full description of the raw dataset columns can be found in 
 
 >*Note: The column `FLT_DEP_1` was used as the reference for IFR departures due to its completeness and consistency across years. A detailed rationale is provided in the notebook.*
 
-
 ---
 
 ## Tools Used
@@ -65,3 +64,10 @@ This case study is part of a professional portfolio combining 25 years in aviati
 It is intended for recruiters, airport operators, and stakeholders interested in airport performance, sustainability, and resilience planning.
 
 For more insights or to get in touch, please visit [LinkedIn](https://www.linkedin.com/in/virginia-levy-abulafia?trk=contact-info)
+
+
+## Acknowledgments
+
+This app was built through weeks of personal research, learning, and creative problem-solving —  
+with ChatGPT as a trusted technical companion throughout the journey.
+
