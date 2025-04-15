@@ -3,23 +3,27 @@
 
 This project explores the operational performance of Bologna Guglielmo Marconi Airport (ICAO: LIPE) through a structured, data-driven approach.
 
-Combining publicly available datasets with domain knowledge from 25 years in aviation, the analysis highlights key post-pandemic trends related to traffic recovery, delay patterns, and environmental impact — especially CO₂ emissions.
+Combining publicly available datasets with domain knowledge from 25 years in aviation, the analysis highlights key post-pandemic trends related to traffic recovery, delay patterns, and environmental impact, especially CO₂ emissions.
 
 ## Project Scope
 
 * Location: Bologna Airport (Italy)
 
-* Period Covered: 2017–Q1 2025
+* Period Covered: 2000–Q1 2025
 
-* Themes Explored:
+## Project Sturcture
 
-  * IFR traffic evolution
+  1. Pre and post pandemic situation:
 
-  * ATC pre-departure delays vs slot allocation
+      * IFR traffic evolution
 
-  * Passenger load factor and emissions efficiency
+      * ATC pre-departure delays vs slot allocation 
 
-  * National vs local performance comparison
+      * Passenger load factor and emissions efficiency
+
+      * National vs local performance comparison
+    
+   2. A [interactive dashboard](https://github.com/VirginiaYonit/BLQ-Dashboard) that tracks 25 years of air traffic (passengers, cargo, delays and emissions) at Bologna Airport.
 
 This work is designed with a practical purpose: to identify patterns that support operational planning, capacity management, and sustainable recovery strategies.
 
@@ -27,9 +31,9 @@ This work is designed with a practical purpose: to identify patterns that suppor
 
 * Traffic Recovery: Bologna’s IFR movements and passenger volumes now exceed pre-pandemic benchmarks.
 
-* Delay Trends: ATC-related delays rose significantly in 2024–2025, especially in early summer, while slot delays remained low.
+* Delay Trends: Pre-departure delays rose significantly in 2024–2025, especially in early summer, while slot delays remained low.
 
-* CO₂ Efficiency: Load factor shows a strong correlation with emissions per passenger — underlining the link between efficiency and sustainability.
+* CO₂ Efficiency: Load factor shows a strong correlation with emissions per passenger underlining the link between efficiency and sustainability.
 
 ## Repository Structure
 
