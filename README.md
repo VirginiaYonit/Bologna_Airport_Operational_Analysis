@@ -66,8 +66,4 @@ It is intended for recruiters, airport operators, and stakeholders interested in
 For more insights or to get in touch, please visit [LinkedIn](https://www.linkedin.com/in/virginia-levy-abulafia?trk=contact-info)
 
 
-## Acknowledgments
-
-This app was built through weeks of personal research, learning, and creative problem-solving —  
-with ChatGPT as a trusted technical companion throughout the journey.
 
