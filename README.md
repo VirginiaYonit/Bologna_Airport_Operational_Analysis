@@ -9,7 +9,7 @@ Combining publicly available datasets with domain knowledge from 25 years in avi
 
 * Location: Bologna Airport (Italy)
 
-* Period Covered: 2000–Q1 2025
+* Period Covered: 2017–Q1 2025
 
 * Themes Explored:
 
