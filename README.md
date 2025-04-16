@@ -49,6 +49,19 @@ This work is designed with a practical purpose: to identify patterns that suppor
 Raw flight and delay data from Eurocontrol are fully documented in the notebook.
 Note: Column FLT_DEP_1 was used as the reference for IFR departures due to its completeness and consistency across years.
 
+## Data Integration & Governance
+
+This project involved working with over 50 datasets originating from multiple public sources (Eurocontrol, Assaeroporti, Our World in Data) and internal archives.
+
+Key challenges and actions:
+* Merging heterogeneous data structures across years
+* Handling missing or inconsistent values
+* Normalizing airport and flight identifiers
+* Aligning different reporting formats and time references
+* Ensuring data quality through validation and documentation
+
+These steps reflect real-world experience in data governance, including traceability, integrity checks, and the harmonization of multi-source inputs — all essential for producing reliable insights in complex operational environments like aviation.
+
 ## Tools Used
 
 * Python (Pandas, Matplotlib, Plotly)
