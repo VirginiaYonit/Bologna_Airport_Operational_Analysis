@@ -1,19 +1,19 @@
 # Bologna Airport Operational Analysis
-### Structured insights from 25 years of airport operations
+### Structured insights of 25 years of airport operations
 
 This project explores the operational performance of Bologna Guglielmo Marconi Airport (ICAO: LIPE) through a structured, data-driven approach.
 
-Combining publicly available datasets with domain knowledge from 25 years in aviation, the analysis highlights key post-pandemic trends related to traffic recovery, delay patterns, and environmental impact, especially CO₂ emissions.
+Combining publicly available datasets with domain knowledge in aviation, the analysis highlights trends related to traffic recovery, delay patterns, and environmental impact, especially CO₂ emissions.
 
 ## Project Scope
 
 * Location: Bologna Airport (Italy)
 
-* Period Covered: 2000–Q1 2025
+* Period Covered: 2000 – 2024
 
 ## Project Sturcture
 
-  1. Pre and post pandemic situation (2018-2024)
+  1. This notebook: Pre and post pandemic situation (2017-2024)
 
       * IFR traffic evolution
 
@@ -23,7 +23,7 @@ Combining publicly available datasets with domain knowledge from 25 years in avi
 
       * National vs local performance comparison
     
-   2. A [interactive dashboard](https://github.com/VirginiaYonit/BLQ-Dashboard) that tracks 25 years of air traffic (passengers, cargo, delays and emissions) at Bologna Airport.
+  2. An [interactive dashboard](https://github.com/VirginiaYonit/BLQ-Dashboard) that tracks 25 years of air traffic (passengers, cargo, delays and emissions) at Bologna Airport.
 
 This work is designed with a practical purpose: to identify patterns that support operational planning, capacity management, and sustainable recovery strategies.
 
