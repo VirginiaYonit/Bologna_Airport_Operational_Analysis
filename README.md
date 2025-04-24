@@ -13,7 +13,7 @@ Combining publicly available datasets with domain knowledge from 25 years in avi
 
 ## Project Sturcture
 
-  1. Pre and post pandemic situation:
+  1. Pre and post pandemic situation (2018-2024)
 
       * IFR traffic evolution
 
